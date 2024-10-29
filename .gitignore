@@ -1,0 +1,4 @@
+scale2x/
+venv/
+__pycache__/
+.ruff_cache/
